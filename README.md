@@ -4,7 +4,7 @@
 - E-mail: marcelofarias@matematica.ufrj.br
 - Data: 08/02/2022
 
-Segundo projeto de Power BI feito de forma totalmente autoral, desde a criação da paleta de cores, arte do papel de parede utilizado, criação das tabelas no excel e design do dashboard. A proposta do projeto era criar um dashboard contendo métricas das minhas leituras pessoais de 2019 a 2021.  
+Segundo projeto de Power BI. Feito de forma totalmente autoral, desde a criação da paleta de cores, arte do papel de parede utilizado, criação das tabelas no excel e design do dashboard. A proposta do projeto era criar um dashboard contendo métricas das minhas leituras pessoais de 2019 a 2021.  
 
 O dashboard deveria contar a seguinte história:
 
